@@ -1,5 +1,5 @@
 # Snapshot2Description
-Snapshot2Description
+Snapshot2Description (MacOS Sonoma 15.2 only)
 
 ## How to run?
 1. Go to `System Settings -> Privacy & Security -> Screen & System Audio Recording -> + -> Enter your password for username -> Select Application Terminal`
